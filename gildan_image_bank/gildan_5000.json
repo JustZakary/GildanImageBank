@@ -1,0 +1,404 @@
+[
+  {
+    "color": "Antique Jade Dome",
+    "image_front": "./gildan_5000/Antique_Jade_Dome_front.jpg",
+    "image_back": "./gildan_5000/Antique_Jade_Dome_back.jpg",
+    "hex": "#006269"
+  },
+  {
+    "color": "Kiwi",
+    "image_front": "./gildan_5000/Kiwi_front.jpg",
+    "image_back": "./gildan_5000/Kiwi_back.jpg",
+    "hex": "#C1CD23"
+  },
+  {
+    "color": "Mint Green",
+    "image_front": "./gildan_5000/Mint_Green_front.jpg",
+    "image_back": "./gildan_5000/Mint_Green_back.jpg",
+    "hex": "#62F1DF"
+  },
+  {
+    "color": "Azalea",
+    "image_front": "./gildan_5000/Azalea_front.jpg",
+    "image_back": "./gildan_5000/Azalea_back.jpg",
+    "hex": "#DD74A1"
+  },
+  {
+    "color": "Dark Chocolate",
+    "image_front": "./gildan_5000/Dark_Chocolate_front.jpg",
+    "image_back": "./gildan_5000/Dark_Chocolate_back.jpg",
+    "hex": "#382F2D"
+  },
+  {
+    "color": "Tennessee Orange",
+    "image_front": "./gildan_5000/Tennessee_Orange_front.jpg",
+    "image_back": "./gildan_5000/Tennessee_Orange_back.jpg",
+    "hex": "#F89629"
+  },
+  {
+    "color": "Brown Savana",
+    "image_front": "./gildan_5000/Brown_Savana_front.jpg",
+    "image_back": "./gildan_5000/Brown_Savana_back.jpg",
+    "hex": "#977F5D"
+  },
+  {
+    "color": "Heliconia",
+    "image_front": "./gildan_5000/Heliconia_front.jpg",
+    "image_back": "./gildan_5000/Heliconia_back.jpg",
+    "hex": "#E31C79"
+  },
+  {
+    "color": "Sunset",
+    "image_front": "./gildan_5000/Sunset_front.jpg",
+    "image_back": "./gildan_5000/Sunset_back.jpg",
+    "hex": "#d27e4e"
+  },
+  {
+    "color": "Charcoal",
+    "image_front": "./gildan_5000/Charcoal_front.jpg",
+    "image_back": "./gildan_5000/Charcoal_back.jpg",
+    "hex": "#63666A"
+  },
+  {
+    "color": "Berry",
+    "image_front": "./gildan_5000/Berry_front.jpg",
+    "image_back": "./gildan_5000/Berry_back.jpg",
+    "hex": "#AF538A"
+  },
+  {
+    "color": "Tweed",
+    "image_front": "./gildan_5000/Tweed_front.jpg",
+    "image_back": "./gildan_5000/Tweed_back.jpg",
+    "hex": "#04080b"
+  },
+  {
+    "color": "Sky",
+    "image_front": "./gildan_5000/Sky_front.jpg",
+    "image_back": "./gildan_5000/Sky_back.jpg",
+    "hex": "#71C5E8"
+  },
+  {
+    "color": "Heather Red",
+    "image_front": "./gildan_5000/Heather_Red_front.jpg",
+    "image_back": "./gildan_5000/Heather_Red_back.jpg",
+    "hex": "#BF0D3E"
+  },
+  {
+    "color": "Safety Green",
+    "image_front": "./gildan_5000/Safety_Green_front.jpg",
+    "image_back": "./gildan_5000/Safety_Green_back.jpg",
+    "hex": "#C4D600"
+  },
+  {
+    "color": "Electric Green",
+    "image_front": "./gildan_5000/Electric_Green_front.jpg",
+    "image_back": "./gildan_5000/Electric_Green_back.jpg",
+    "hex": "#009b57"
+  },
+  {
+    "color": "Sapphire",
+    "image_front": "./gildan_5000/Sapphire_front.jpg",
+    "image_back": "./gildan_5000/Sapphire_back.jpg",
+    "hex": "#0067A0"
+  },
+  {
+    "color": "Antique Cherry Red",
+    "image_front": "./gildan_5000/Antique_Cherry_Red_front.jpg",
+    "image_back": "./gildan_5000/Antique_Cherry_Red_back.jpg",
+    "hex": "#C1434F"
+  },
+  {
+    "color": "Blackberry",
+    "image_front": "./gildan_5000/Blackberry_front.jpg",
+    "image_back": "./gildan_5000/Blackberry_back.jpg",
+    "hex": "#5C5582"
+  },
+  {
+    "color": "Garnet",
+    "image_front": "./gildan_5000/Garnet_front.jpg",
+    "image_back": "./gildan_5000/Garnet_back.jpg",
+    "hex": "#A30331"
+  },
+  {
+    "color": "Lilac",
+    "image_front": "./gildan_5000/Lilac_front.jpg",
+    "image_back": "./gildan_5000/Lilac_back.jpg",
+    "hex": "#B8AACB"
+  },
+  {
+    "color": "Cardinal",
+    "image_front": "./gildan_5000/Cardinal_front.jpg",
+    "image_back": "./gildan_5000/Cardinal_back.jpg",
+    "hex": "#AB0938"
+  },
+  {
+    "color": "Military Green",
+    "image_front": "./gildan_5000/Military_Green_front.jpg",
+    "image_back": "./gildan_5000/Military_Green_back.jpg",
+    "hex": "#5E7461"
+  },
+  {
+    "color": "Yellow Haze",
+    "image_front": "./gildan_5000/Yellow_Haze_front.jpg",
+    "image_back": "./gildan_5000/Yellow_Haze_back.jpg",
+    "hex": "#FDE59F"
+  },
+  {
+    "color": "Midnight",
+    "image_front": "./gildan_5000/Midnight_front.jpg",
+    "image_back": "./gildan_5000/Midnight_back.jpg",
+    "hex": "#0f142a"
+  },
+  {
+    "color": "Irish Green",
+    "image_front": "./gildan_5000/Irish_Green_front.jpg",
+    "image_back": "./gildan_5000/Irish_Green_back.jpg",
+    "hex": "#00A74A"
+  },
+  {
+    "color": "Ice Grey",
+    "image_front": "./gildan_5000/Ice_Grey_front.jpg",
+    "image_back": "./gildan_5000/Ice_Grey_back.jpg",
+    "hex": "#D7D2CB"
+  },
+  {
+    "color": "Turf Green",
+    "image_front": "./gildan_5000/Turf_Green_front.jpg",
+    "image_back": "./gildan_5000/Turf_Green_back.jpg",
+    "hex": "#18975C"
+  },
+  {
+    "color": "Antique Sapphire",
+    "image_front": "./gildan_5000/Antique_Sapphire_front.jpg",
+    "image_back": "./gildan_5000/Antique_Sapphire_back.jpg",
+    "hex": "#006A8E"
+  },
+  {
+    "color": "Dark Heather",
+    "image_front": "./gildan_5000/Dark_Heather_front.jpg",
+    "image_back": "./gildan_5000/Dark_Heather_back.jpg",
+    "hex": "#425563"
+  },
+  {
+    "color": "Maroon",
+    "image_front": "./gildan_5000/Maroon_front.jpg",
+    "image_back": "./gildan_5000/Maroon_back.jpg",
+    "hex": "#582D40"
+  },
+  {
+    "color": "Tropical Blue",
+    "image_front": "./gildan_5000/Tropical_Blue_front.jpg",
+    "image_back": "./gildan_5000/Tropical_Blue_back.jpg",
+    "hex": "#3368AA"
+  },
+  {
+    "color": "Lime",
+    "image_front": "./gildan_5000/Lime_front.jpg",
+    "image_back": "./gildan_5000/Lime_back.jpg",
+    "hex": "#78D64B"
+  },
+  {
+    "color": "Cobalt",
+    "image_front": "./gildan_5000/Cobalt_front.jpg",
+    "image_back": "./gildan_5000/Cobalt_back.jpg",
+    "hex": "#171C8F"
+  },
+  {
+    "color": "Neon Blue",
+    "image_front": "./gildan_5000/Neon_Blue_front.jpg",
+    "image_back": "./gildan_5000/Neon_Blue_back.jpg",
+    "hex": "#3368AA"
+  },
+  {
+    "color": "Graphite Heather",
+    "image_front": "./gildan_5000/Graphite_Heather_front.jpg",
+    "image_back": "./gildan_5000/Graphite_Heather_back.jpg",
+    "hex": "#707372"
+  },
+  {
+    "color": "Safety Pink",
+    "image_front": "./gildan_5000/Safety_Pink_front.jpg",
+    "image_back": "./gildan_5000/Safety_Pink_back.jpg",
+    "hex": "#EA278D"
+  },
+  {
+    "color": "Cornsilk",
+    "image_front": "./gildan_5000/Cornsilk_front.jpg",
+    "image_back": "./gildan_5000/Cornsilk_back.jpg",
+    "hex": "#F3EE90"
+  },
+  {
+    "color": "Sand",
+    "image_front": "./gildan_5000/Sand_front.jpg",
+    "image_back": "./gildan_5000/Sand_back.jpg",
+    "hex": "#C5B9AC"
+  },
+  {
+    "color": "Natural",
+    "image_front": "./gildan_5000/Natural_front.jpg",
+    "image_back": "./gildan_5000/Natural_back.jpg",
+    "hex": "#E7CEB5"
+  },
+  {
+    "color": "Neon Green",
+    "image_front": "./gildan_5000/Neon_Green_front.jpg",
+    "image_back": "./gildan_5000/Neon_Green_back.jpg",
+    "hex": "#009b57"
+  },
+  {
+    "color": "S_Orange",
+    "image_front": "./gildan_5000/S_Orange_front.jpg",
+    "image_back": "./gildan_5000/S_Orange_back.jpg",
+    "hex": "#f58321"
+  },
+  {
+    "color": "Sport Grey",
+    "image_front": "./gildan_5000/Sport_Grey_front.jpg",
+    "image_back": "./gildan_5000/Sport_Grey_back.jpg",
+    "hex": "#97999B"
+  },
+  {
+    "color": "Texas_Orange",
+    "image_front": "./gildan_5000/Texas_Orange_front.jpg",
+    "image_back": "./gildan_5000/Texas_Orange_back.jpg",
+    "hex": "#B15533"
+  },
+  {
+    "color": "Light Blue",
+    "image_front": "./gildan_5000/Light_Blue_front.jpg",
+    "image_back": "./gildan_5000/Light_Blue_back.jpg",
+    "hex": "#A4C8E1"
+  },
+  {
+    "color": "Indigo Blue",
+    "image_front": "./gildan_5000/Indigo_Blue_front.jpg",
+    "image_back": "./gildan_5000/Indigo_Blue_back.jpg",
+    "hex": "#4F758B"
+  },
+  {
+    "color": "Red",
+    "image_front": "./gildan_5000/Red_front.jpg",
+    "image_back": "./gildan_5000/Red_back.jpg",
+    "hex": "#D50032"
+  },
+  {
+    "color": "White",
+    "image_front": "./gildan_5000/White_front.jpg",
+    "image_back": "./gildan_5000/White_back.jpg",
+    "hex": "#FFFFFF"
+  },
+  {
+    "color": "Purple",
+    "image_front": "./gildan_5000/Purple_front.jpg",
+    "image_back": "./gildan_5000/Purple_back.jpg",
+    "hex": "#351F65"
+  },
+  {
+    "color": "Black",
+    "image_front": "./gildan_5000/Black_front.jpg",
+    "image_back": "./gildan_5000/Black_back.jpg",
+    "hex": "#25282A"
+  },
+  {
+    "color": "Royal",
+    "image_front": "./gildan_5000/Royal_front.jpg",
+    "image_back": "./gildan_5000/Royal_back.jpg",
+    "hex": "#1D4F91"
+  },
+  {
+    "color": "Old Gold",
+    "image_front": "./gildan_5000/Old_Gold_front.jpg",
+    "image_back": "./gildan_5000/Old_Gold_back.jpg",
+    "hex": "#CFAB79"
+  },
+  {
+    "color": "Orange",
+    "image_front": "./gildan_5000/Orange_front.jpg",
+    "image_back": "./gildan_5000/Orange_back.jpg",
+    "hex": "#F4633A"
+  },
+  {
+    "color": "Gold",
+    "image_front": "./gildan_5000/Gold_front.jpg",
+    "image_back": "./gildan_5000/Gold_back.jpg",
+    "hex": "#FFB81C"
+  },
+  {
+    "color": "Ash",
+    "image_front": "./gildan_5000/Ash_front.jpg",
+    "image_back": "./gildan_5000/Ash_back.jpg",
+    "hex": "#cfc9ca"
+  },
+  {
+    "color": "Coral Silk",
+    "image_front": "./gildan_5000/Coral_Silk_front.jpg",
+    "image_back": "./gildan_5000/Coral_Silk_back.jpg",
+    "hex": "#FB637E"
+  },
+  {
+    "color": "Forest",
+    "image_front": "./gildan_5000/Forest_front.jpg",
+    "image_back": "./gildan_5000/Forest_back.jpg",
+    "hex": "#123B2D"
+  },
+  {
+    "color": "Antique Irish Green",
+    "image_front": "./gildan_5000/Antique_Irish_Green_front.jpg",
+    "image_back": "./gildan_5000/Antique_Irish_Green_back.jpg",
+    "hex": "#00843D"
+  },
+  {
+    "color": "Navy",
+    "image_front": "./gildan_5000/Navy_front.jpg",
+    "image_back": "./gildan_5000/Navy_back.jpg",
+    "hex": "#202A44"
+  },
+  {
+    "color": "Gravel",
+    "image_front": "./gildan_5000/Gravel_front.jpg",
+    "image_back": "./gildan_5000/Gravel_back.jpg",
+    "hex": "#b0acae"
+  },
+  {
+    "color": "Carolina Blue",
+    "image_front": "./gildan_5000/Carolina_Blue_front.jpg",
+    "image_back": "./gildan_5000/Carolina_Blue_back.jpg",
+    "hex": "#7BA4DB"
+  },
+  {
+    "color": "Light Pink",
+    "image_front": "./gildan_5000/Light_Pink_front.jpg",
+    "image_back": "./gildan_5000/Light_Pink_back.jpg",
+    "hex": "#E4C6D4"
+  },
+  {
+    "color": "Heather Military Green",
+    "image_front": "./gildan_5000/Heather_Military_Green_front.jpg",
+    "image_back": "./gildan_5000/Heather_Military_Green_back.jpg",
+    "hex": "#55513e"
+  },
+  {
+    "color": "Heather Sapphire",
+    "image_front": "./gildan_5000/Heather_Sapphire_front.jpg",
+    "image_back": "./gildan_5000/Heather_Sapphire_back.jpg",
+    "hex": "#00B3ED"
+  },
+  {
+    "color": "Violet",
+    "image_front": "./gildan_5000/Violet_front.jpg",
+    "image_back": "./gildan_5000/Violet_back.jpg",
+    "hex": "#4A61AD"
+  },
+  {
+    "color": "Antique_Orange",
+    "image_front": "./gildan_5000/Antique_Orange_front.jpg",
+    "image_back": "./gildan_5000/Antique_Orange_back.jpg",
+    "hex": "#B33D26"
+  },
+  {
+    "color": "Daisy",
+    "image_front": "./gildan_5000/Daisy_front.jpg",
+    "image_back": "./gildan_5000/Daisy_back.jpg",
+    "hex": "#FED141"
+  }
+]
