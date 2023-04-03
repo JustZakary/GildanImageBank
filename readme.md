@@ -10,9 +10,9 @@ There is a JSON file for each product that contains the image URLs, so you can e
 
 ## Products
 
-- [Gildan 5000](gilden_image_bank/gildan_5000.md)
-- [Gildan 18000](gilden_image_bank/gildan_18000.md)
-- [Gildan 18500](gilden_image_bank/gildan_18500.md)
+- [Gildan 5000](gildan_image_bank/gildan_5000.md)
+- [Gildan 18000](gildan_image_bank/gildan_18000.md)
+- [Gildan 18500](gildan_image_bank/gildan_18500.md)
 
 ## How to Use
 
